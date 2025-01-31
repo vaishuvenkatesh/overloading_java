@@ -1,0 +1,14 @@
+public class Main{
+    int regno;
+    String name;
+    Main(){
+        regno=59;
+        name="vaishu";
+    }
+    public static void main(String[]vais){
+        Main obj=new Main();
+        System.out.println(obj.regno);
+        System.out.println(obj.name);
+        
+    }
+}
